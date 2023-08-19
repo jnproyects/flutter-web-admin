@@ -27146,7 +27146,7 @@ aM7(a){return a},
 aOD(a){return a},
 auv(){var s,r=$.wW().GO$
 r===$&&A.b()
-r.pE$="http://localhost:8081/api"
+r.pE$="https://flutter-web-admin.onrender.com/api"
 s=A.cm(J.be($.tO.aP().a,"token"))
 r.sU6(0,A.aA(["x-token",s==null?"":s],t.N,t.z))},
 ry(a){return A.aJh(a)},
